@@ -14,7 +14,7 @@ public class DoWhileExamples {
             sum += a; // sum = sum + a
             a++;
         } while (a <= 10);
-        System.out.println("Sum of 1 to 10 is : " + sum);
+        System.out.println("Sum of 1 to 100 is : " + sum);
 
 	}
 }
