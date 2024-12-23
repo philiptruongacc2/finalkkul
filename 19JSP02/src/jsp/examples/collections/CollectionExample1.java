@@ -27,7 +27,7 @@ public class CollectionExample1 {
  
         List<String> linkedList = new LinkedList<String>();
         linkedList.add("PHP");
-        linkedList.add("Python");
+        linkedList.add("Python111");
         linkedList.add("Java");
         linkedList.add("C++");
         System.out.println("Các phần tử của LinkedList");
