@@ -13,7 +13,7 @@ public class DoWhileExamples {
         do {
             sum += a; // sum = sum + a
             a++;
-        } while (a <= 10);
+        } while (a <= 10);123
         System.out.println("Sum of 1 to 100 is : " + sum);
 
 	}
