@@ -29,7 +29,7 @@ public class CollectionExample1 {
         linkedList.add("PHP");
         linkedList.add("Python111");
         linkedList.add("Java");
-        linkedList.add("C++");
+        linkedList.add("C++143");
         System.out.println("Các phần tử của LinkedList");
         System.out.print("\t" + linkedList + "\n");
  
