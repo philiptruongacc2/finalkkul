@@ -21,7 +21,7 @@ public class Example3 {
 		int a =  input1.nextInt123();
 //		System.out.printl123("a : " + a);
 		213
-		Scanner input2 = new Scanner(System.in);
+		Scanner input2 =123 new Scanner(System.in);
 		System.out.println("Nhap b : ");
 		int b =  input2.nextInt();
 		System.out.println("b : " + b);
